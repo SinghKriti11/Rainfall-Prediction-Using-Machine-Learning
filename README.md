@@ -144,7 +144,6 @@ AUC > 0.8  → Very Good Model
 ```
 
 ### Cross Validation
-
 5-Fold Cross Validation was used to evaluate model stability.
 
 ---
