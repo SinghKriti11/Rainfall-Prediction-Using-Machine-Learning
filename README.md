@@ -89,7 +89,6 @@ Highly correlated temperature features were removed.
 
 ### Class Balancing
 The dataset showed class imbalance.
-
 To address this issue:
 - Majority class was downsampled
 - Minority class was retained
