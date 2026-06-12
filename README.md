@@ -80,3 +80,12 @@ The following analyses were performed:
 - ROC Curve
 
 ---
+
+## 🔧 Data Preprocessing
+
+### Missing Value Handling
+
+| Feature | Method Used |
+|----------|-------------|
+| winddirection | Mode Imputation |
+| windspeed | Median Imputation |
