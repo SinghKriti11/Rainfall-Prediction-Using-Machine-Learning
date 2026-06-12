@@ -106,7 +106,6 @@ RandomForestClassifier
 ```
 
 ### Hyperparameter Tuning
-
 GridSearchCV was used to optimize model performance.
 
 ---
