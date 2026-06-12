@@ -70,3 +70,13 @@ The following analyses were performed:
 - Histograms
 - Boxplots
 - Correlation heatmap
+
+### Visualizations
+
+- Feature Distribution Plots
+- Count Plots
+- Boxplots
+- Correlation Matrix Heatmap
+- ROC Curve
+
+---
