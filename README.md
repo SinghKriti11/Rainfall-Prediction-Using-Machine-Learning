@@ -134,11 +134,9 @@ Displays:
 - False Negatives
 
 ### ROC-AUC Score
-
 Measures the model's ability to distinguish between rainfall and non-rainfall events.
 
 Interpretation:
-
 ```text
 AUC = 0.5  → Random Guessing
 AUC > 0.7  → Good Model
