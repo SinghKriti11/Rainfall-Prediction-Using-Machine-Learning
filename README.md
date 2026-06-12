@@ -17,3 +17,7 @@ A Random Forest Classifier was trained on weather data and optimized using GridS
 - Save the trained model for future predictions.
 
 ---
+
+## 📂 Dataset
+
+The dataset contains weather attributes that influence rainfall.
