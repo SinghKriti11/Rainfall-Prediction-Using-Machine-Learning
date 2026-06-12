@@ -61,12 +61,10 @@ no → 0
 ## 📊 Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
-
 - Dataset inspection
 - Missing value analysis
 - Class distribution analysis
-- Histograms
-- Boxplots
+- Histograms and Boxplots
 - Correlation heatmap
 
 ### Visualizations
