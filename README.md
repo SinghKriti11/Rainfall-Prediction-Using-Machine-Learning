@@ -104,3 +104,11 @@ To address this issue:
 - Dataset was shuffled before training
 
 ---
+
+## 🤖 Machine Learning Model
+
+### Algorithm Used
+
+```python
+RandomForestClassifier
+```
