@@ -127,13 +127,10 @@ The model was evaluated using:
 Measures overall prediction performance.
 
 ### Precision
-
 Measures the correctness of positive predictions.
 
 ### Recall
-
 Measures the model's ability to identify rainfall events.
 
 ### F1 Score
-
 Harmonic mean of Precision and Recall.
