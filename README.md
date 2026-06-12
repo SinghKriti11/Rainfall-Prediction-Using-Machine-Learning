@@ -134,3 +134,24 @@ Measures the model's ability to identify rainfall events.
 
 ### F1 Score
 Harmonic mean of Precision and Recall.
+
+### Confusion Matrix
+
+Displays:
+
+- True Positives
+- True Negatives
+- False Positives
+- False Negatives
+
+### ROC-AUC Score
+
+Measures the model's ability to distinguish between rainfall and non-rainfall events.
+
+Interpretation:
+
+```text
+AUC = 0.5  → Random Guessing
+AUC > 0.7  → Good Model
+AUC > 0.8  → Very Good Model
+```
