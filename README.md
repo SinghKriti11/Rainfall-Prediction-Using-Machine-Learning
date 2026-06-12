@@ -127,9 +127,7 @@ Measures the model's ability to identify rainfall events.
 Harmonic mean of Precision and Recall.
 
 ### Confusion Matrix
-
 Displays:
-
 - True Positives
 - True Negatives
 - False Positives
