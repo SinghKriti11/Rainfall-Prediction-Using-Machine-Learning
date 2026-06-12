@@ -155,3 +155,19 @@ AUC = 0.5  → Random Guessing
 AUC > 0.7  → Good Model
 AUC > 0.8  → Very Good Model
 ```
+
+### Cross Validation
+
+5-Fold Cross Validation was used to evaluate model stability.
+
+---
+
+## 📉 ROC Curve
+
+The ROC Curve compares the model's performance against a Random Baseline classifier.
+
+- The diagonal dashed line represents random guessing.
+- The closer the ROC curve is to the top-left corner, the better the model performs.
+- A higher AUC score indicates stronger classification capability.
+
+---
