@@ -171,3 +171,7 @@ The ROC Curve compares the model's performance against a Random Baseline classif
 - A higher AUC score indicates stronger classification capability.
 
 ---
+
+## 💾 Model Saving
+
+The trained model is saved using Pickle.
