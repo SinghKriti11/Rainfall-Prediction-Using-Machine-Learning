@@ -88,7 +88,6 @@ The following analyses were performed:
 Highly correlated temperature features were removed.
 
 ### Class Balancing
-
 The dataset showed class imbalance.
 
 To address this issue:
