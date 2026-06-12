@@ -89,3 +89,7 @@ The following analyses were performed:
 |----------|-------------|
 | winddirection | Mode Imputation |
 | windspeed | Median Imputation |
+
+### Feature Selection
+
+Highly correlated temperature features were removed.
