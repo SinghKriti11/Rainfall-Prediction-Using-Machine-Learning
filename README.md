@@ -7,3 +7,13 @@ Rainfall prediction is an important task in weather forecasting, agriculture, wa
 A Random Forest Classifier was trained on weather data and optimized using GridSearchCV to improve predictive performance. The project includes data preprocessing, exploratory data analysis, model training, hyperparameter tuning, evaluation, and prediction.
 
 ---
+
+## 🎯 Objectives
+
+- Analyze weather-related data.
+- Predict the occurrence of rainfall.
+- Compare model performance using multiple evaluation metrics.
+- Optimize the model using hyperparameter tuning.
+- Save the trained model for future predictions.
+
+---
