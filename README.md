@@ -21,3 +21,15 @@ A Random Forest Classifier was trained on weather data and optimized using GridS
 ## 📂 Dataset
 
 The dataset contains weather attributes that influence rainfall.
+
+### Features
+
+| Feature | Description |
+|----------|-------------|
+| pressure | Atmospheric pressure |
+| dewpoint | Dew point temperature |
+| humidity | Relative humidity |
+| cloud | Cloud coverage |
+| sunshine | Sunshine duration |
+| winddirection | Wind direction |
+| windspeed | Wind speed |
