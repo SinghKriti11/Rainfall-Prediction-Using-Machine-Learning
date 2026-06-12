@@ -23,7 +23,6 @@ A Random Forest Classifier was trained on weather data and optimized using GridS
 The dataset contains weather attributes that influence rainfall.
 
 ### Features
-
 | Feature | Description |
 |----------|-------------|
 | pressure | Atmospheric pressure |
