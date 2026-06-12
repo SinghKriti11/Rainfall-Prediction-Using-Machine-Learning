@@ -93,3 +93,14 @@ The following analyses were performed:
 ### Feature Selection
 
 Highly correlated temperature features were removed.
+
+### Class Balancing
+
+The dataset showed class imbalance.
+
+To address this issue:
+- Majority class was downsampled
+- Minority class was retained
+- Dataset was shuffled before training
+
+---
