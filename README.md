@@ -45,3 +45,17 @@ Target encoding:
 yes → 1
 no → 0
 ```
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Pickle
+
+---
