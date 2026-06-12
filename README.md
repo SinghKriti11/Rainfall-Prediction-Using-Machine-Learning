@@ -120,6 +120,7 @@ GridSearchCV was used to optimize model performance.
 ---
 
 ## 📈 Model Evaluation
+
 The model was evaluated using:
 
 ### Accuracy Score
