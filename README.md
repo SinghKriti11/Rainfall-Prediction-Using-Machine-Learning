@@ -79,7 +79,6 @@ The following analyses were performed:
 ## 🔧 Data Preprocessing
 
 ### Missing Value Handling
-
 | Feature | Method Used |
 |----------|-------------|
 | winddirection | Mode Imputation |
