@@ -33,3 +33,11 @@ The dataset contains weather attributes that influence rainfall.
 | sunshine | Sunshine duration |
 | winddirection | Wind direction |
 | windspeed | Wind speed |
+
+### Target Variable
+
+| Variable | Description |
+|-----------|------------|
+| rainfall | Rainfall occurrence (Yes / No) |
+
+Target encoding:
