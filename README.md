@@ -85,7 +85,6 @@ The following analyses were performed:
 | windspeed | Median Imputation |
 
 ### Feature Selection
-
 Highly correlated temperature features were removed.
 
 ### Class Balancing
