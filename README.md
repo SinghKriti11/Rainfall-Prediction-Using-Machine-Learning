@@ -29,7 +29,7 @@ The dataset contains weather attributes that influence rainfall.
 | dewpoint | Dew point temperature |
 | humidity | Relative humidity |
 | cloud | Cloud coverage |
-| sunshine | Sunshine duration |
+| sunshine | Sunshine duration | 
 | winddirection | Wind direction |
 | windspeed | Wind speed |
 
@@ -46,7 +46,7 @@ no → 0
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 - Python
 - NumPy
