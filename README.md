@@ -58,7 +58,7 @@ no → 0
 
 ---  
 
-## 📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA) 
 
 The following analyses were performed:
 - Dataset inspection
