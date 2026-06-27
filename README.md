@@ -46,7 +46,7 @@ no → 0
 
 ---
 
-## 🛠️ Technologies Used 
+## 🛠️ Technologies Used  
 
 - Python
 - NumPy
