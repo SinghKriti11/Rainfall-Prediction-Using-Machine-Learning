@@ -36,7 +36,7 @@ The dataset contains weather attributes that influence rainfall.
 ### Target Variable
 | Variable | Description |
 |-----------|------------|
-| rainfall | Rainfall occurrence (Yes / No) |
+| rainfall | Rainfall occurrence (Yes / No) | 
 
 Target encoding:
 ```python
