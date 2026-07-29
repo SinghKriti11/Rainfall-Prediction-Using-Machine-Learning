@@ -10,7 +10,7 @@ A Random Forest Classifier was trained on weather data and optimized using GridS
 
 ## 🎯 Objectives
  
-- Analyze weather-related data.
+- Analyze weather-related data. 
 - Predict the occurrence of rainfall.
 - Compare model performance using multiple evaluation metrics.   
 - Optimize the model using hyperparameter tuning. 
